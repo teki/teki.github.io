@@ -1,0 +1,22 @@
+body {
+    font-family: 'Droid Sans', sans-serif;
+}
+
+#mainmenu {
+    background-color: #FFB03B;
+}
+
+footer {
+    background-color: #FFB03B;
+}
+footer p {
+    padding: 1em 1em 1em 1em;
+}
+
+#mainmenu a {
+    color: black;
+}
+
+#content {
+    padding: 1em 1em 1em 1em;
+}

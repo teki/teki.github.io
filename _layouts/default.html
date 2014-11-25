@@ -45,9 +45,9 @@
     <div id="content">
       {{ content }}
     </div>
-    {{ "{% if page.comments " }}%}
+    {% if page.comments %}
     <div class="fb-comments" data-href="http://developers.facebook.com/docs/plugins/comments/" data-width="500" data-numposts="5" data-colorscheme="light"></div>
-    {{ "{% endif"}}%}
+    {% endif %}
     <footer>
       <p>@ teki 2014 | All Rights Reserved. </p>
     </footer>

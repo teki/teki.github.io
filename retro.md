@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: yes
 ---
 
 Retro stuff

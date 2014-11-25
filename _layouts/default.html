@@ -11,6 +11,26 @@
 </head>
 
 <body>
+  <script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId: '1491168351150228',
+        xfbml: true,
+        version: 'v2.2'
+      });
+    };
+
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) {
+        return;
+      }
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
 
   <div id="main">
     <div class="pure-menu pure-menu-open pure-menu-horizontal" id="mainmenu">
@@ -25,7 +45,9 @@
     <div id="content">
       {{ content }}
     </div>
-    
+    {{ "{% if page.comments " }}%}
+    <div class="fb-comments" data-href="http://developers.facebook.com/docs/plugins/comments/" data-width="500" data-numposts="5" data-colorscheme="light"></div>
+    {{ "{% endif"}}%}
     <footer>
       <p>@ teki 2014 | All Rights Reserved. </p>
     </footer>

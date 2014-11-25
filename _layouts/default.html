@@ -46,7 +46,7 @@
       {{ content }}
     </div>
     {% if page.comments %}
-    <div class="fb-comments" data-href="http://developers.facebook.com/docs/plugins/comments/" data-width="500" data-numposts="5" data-colorscheme="light"></div>
+    <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="500" data-numposts="5" data-colorscheme="light"></div>
     {% endif %}
     <footer>
       <p>@ teki 2014 | All Rights Reserved. </p>

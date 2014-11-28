@@ -6,6 +6,13 @@ comments: yes
 Retro stuff
 ====================
 
+To read/watch
+-------------
+
+* [Book: Racing the Beam](http://mitpress.mit.edu/books/racing-beam) - About the Atari 2600, a bit dry, but has good stuff in it.
+* [Book: It's behind you](http://bizzley.com) - The development of R-Type for the ZX Spectrum, loved it!
+* [Video: From bedrooms to billions](http://www.frombedroomstobillions.com) - It is about the UK home computer sw business in the '80. The specials are good.
+
 Videoton TVC
 ------------
 
@@ -22,6 +29,9 @@ ZX Spectrum
 -----------
 
 * [Mastering Machine Code on Your ZX Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=2000237)
+* [Rom collection](http://www.shadowmagic.org.uk/spectrum/roms.html)
+* [HW info](http://wordpress.animatez.co.uk/computers/zx-spectrum/hardware/)
+* [HW info](http://www.worldofspectrum.org/faq/reference/48kreference.htm#Hardware)
 
 Z80
 ---

@@ -22,17 +22,20 @@ Videoton TVC
 Atari 2600
 ----------
 
+* [Games to play](http://videogamecritic.com/2600.htm)
+* [2600 specs](http://problemkaputt.de/2k6specs.htm)
 * [DIY cartridge](http://www.thehopelesshobbyist.com/games/atari-2600-32-in-1-game-cartridge)
 * [EEPROM programmer](http://forum.arduino.cc/index.php?topic=163682.0)
-* [Games to play](http://videogamecritic.com/2600.htm)
 
 ZX Spectrum
 -----------
 
 * [Mastering Machine Code on Your ZX Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=2000237)
 * [Rom collection](http://www.shadowmagic.org.uk/spectrum/roms.html)
+* [ZX 81/Spectrum specs](http://problemkaputt.de/zxdocs.htm)
 * [HW info](http://wordpress.animatez.co.uk/computers/zx-spectrum/hardware/)
 * [HW info](http://www.worldofspectrum.org/faq/reference/48kreference.htm#Hardware)
+* [build a ZX81 clone](http://echorod.home.xs4all.nl/zx/zx97_lite.htm)
 
 Z80
 ---

@@ -24,6 +24,7 @@ Atari 2600
 
 * [DIY cartridge](http://www.thehopelesshobbyist.com/games/atari-2600-32-in-1-game-cartridge)
 * [EEPROM programmer](http://forum.arduino.cc/index.php?topic=163682.0)
+* [Games to play](http://videogamecritic.com/2600.htm)
 
 ZX Spectrum
 -----------

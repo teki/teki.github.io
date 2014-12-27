@@ -38,6 +38,16 @@ ZX Spectrum
 * [HW info](http://www.worldofspectrum.org/faq/reference/48kreference.htm#Hardware)
 * [build a ZX81 clone](http://echorod.home.xs4all.nl/zx/zx97_lite.htm)
 
+Radio Shack TRS-80 Color Computer 2
+-----------------------------------
+
+* [About the coco (wikipedia)] (http://en.wikipedia.org/wiki/TRS-80_Color_Computer)
+* [A lot more about the coco] (http://www.cocopedia.com/wiki/index.php/Tandy%27s_Little_Wonder)
+* [Fan page] (http://tandycoco.com/)
+* [DriveWire How To] (http://www.frontiernet.net/~mmarlette/Cloud-9/Software/DriveWire3.html)
+* [Cartridge PCB] (http://www.nf6x.net/2013/10/cocoeprompak/)
+* [Software/Documentation archive] (http://www.colorcomputerarchive.com/)
+
 Z80
 ---
 

@@ -54,6 +54,8 @@ Specs: Motorola 6809E CPU 0.895MHz, 16/64kB RAM, Motorola 6847 VPU
 * [Cartridge PCB](http://www.nf6x.net/2013/10/cocoeprompak/)
 * [Software/Documentation archive](http://www.colorcomputerarchive.com/)
 * [Upgrade info](http://www.amibay.com/showthread.php?7423-TRS-80-Color-Computer-2-Upgrades)
+* [Composite video out](https://sites.google.com/site/thezippsterzone/coco2-composite-board-2)
+* [Programming](https://sites.google.com/a/aaronwolfe.com/cococoding/home//)
 
 My HW: CoCo2 26-3134A (16kB, Color BASIC, waiting for an upgrade)
 

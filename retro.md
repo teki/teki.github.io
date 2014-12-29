@@ -75,9 +75,18 @@ CP/M
 * [Build a CP/M computer](http://searle.hostei.com/grant/cpm/index.html)
 * [BBC Basic for CP/M](http://www.bbcbasic.co.uk/bbcbasic/z80basic.html)
 
-To read/watch
--------------
+To read/watch (paid)
+--------------------
 
 * [Book: Racing the Beam](http://mitpress.mit.edu/books/racing-beam) - About the Atari 2600, a bit dry, but has good stuff in it.
-* [Book: It's behind you](http://bizzley.com) - The development of R-Type for the ZX Spectrum, loved it!
 * [Video: From bedrooms to billions](http://www.frombedroomstobillions.com) - It is about the UK home computer sw business in the '80. The specials are good.
+
+To read/watch (free)
+--------------------
+
+* [Book: It's behind you](http://bizzley.com) - The development of R-Type for the ZX Spectrum, loved it!
+* [Video: Commercial Breaks - A documentary about Imagine and Ocean Software](https://www.youtube.com/watch?v=Bj-KZdiSrg4)
+* [Video: Spectrum Diamond Documentary](https://www.youtube.com/watch?v=2ro5acUgqzY)
+* [Video: Matthew Smith Interview Manic Miner ZX Spectrum](https://www.youtube.com/watch?v=FWmmMZlhcqU)
+
+

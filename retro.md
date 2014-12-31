@@ -13,6 +13,7 @@ Specs: MOS 6507 CPU 1.19MHz, 128B RAM, custom VPU (TIA)
 
 * [Games to play](http://videogamecritic.com/2600.htm)
 * [2600 specs](http://problemkaputt.de/2k6specs.htm)
+* [Atari VCS/2600 unreleased/prototype games and hardware](http://www.2600connection.com/faq/vcs_nr/vcs_nr.html)
 * [DIY cartridge](http://www.thehopelesshobbyist.com/games/atari-2600-32-in-1-game-cartridge)
 * [EEPROM programmer](http://forum.arduino.cc/index.php?topic=163682.0)
 * [bank switching](http://www.classic-games.com/atari2600/bankswitch.html)

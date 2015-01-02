@@ -6,6 +6,12 @@ body {
     background-color: #FFB03B;
 }
 
+#extramenu {
+  background-color: #FFB03B;
+  border-top: 1px solid black;
+}
+
+
 footer {
     background-color: #FFB03B;
 }
@@ -15,6 +21,10 @@ footer p {
 
 #mainmenu a {
     color: black;
+}
+
+#extramenu a {
+  color: black;
 }
 
 #content {

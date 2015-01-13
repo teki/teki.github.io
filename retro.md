@@ -15,7 +15,9 @@ Specs: MOS 6507 CPU 1.19MHz, 128B RAM, custom VPU (TIA)
 * [2600 specs](http://problemkaputt.de/2k6specs.htm)
 * [Games to play](http://videogamecritic.com/2600.htm)
 
-My HW: Atari Junior (short rainbow)
+State:
+
+* Atari Junior (short rainbow): works fine
 
 ZX81 (1981)
 -----------
@@ -25,7 +27,9 @@ Specs: Z80A CPU 3.5MHz, 1kB RAM, custom VPU
 * [History](http://www.theregister.co.uk/2011/03/04/sinclair_zx81_anniversary/)
 * [ZX 81/Spectrum specs](http://problemkaputt.de/zxdocs.htm)
 
-My HW: ZX81 - currently dead
+State:
+
+* ZX81: dead, but very cute
 
 ZX Spectrum (1982)
 ------------------
@@ -35,7 +39,10 @@ Specs: Z80A CPU 3.5MHz, 16/48/128kB, custom VPU
 * [History](http://www.theregister.co.uk/2012/04/23/retro_week_sinclair_zx_spectrum_at_30/)
 * [ZX 81/Spectrum specs](http://problemkaputt.de/zxdocs.htm)
 
-My HW: ZX Spectrum +2, ZX Spectrum 48k (bad RF, mostly broken keyboard)
+State:
+
+* ZX Spectrum +2: works fine
+* ZX Spectrum 48k: bad RF, mostly broken keyboard
 
 Radio Shack TRS-80 Color Computer 2 (1983)
 ------------------------------------------
@@ -46,7 +53,9 @@ Specs: Motorola 6809E CPU 0.895MHz, 16/64kB RAM, Motorola 6847 VPU
 * [A lot more about the coco](http://www.cocopedia.com/wiki/index.php/Tandy%27s_Little_Wonder)
 * [Fan page](http://tandycoco.com/)
 
-My HW: CoCo2 26-3134A (16kB, Color BASIC, waiting for an upgrade)
+State:
+
+* CoCo2 26-3134A: works fine, waiting for upgrades
 
 Videoton TVC (1986)
 -------------------
@@ -56,7 +65,10 @@ Specs: Z80A CPU 3.125MHz, 32/64/128kB RAM, Motorola 6845 VPU
 * [My javascript emulator](http://github.com/teki/jstvc)
 * [Hungraian community](http://tvc.homeserver.hu/)
 
-My HW: 2 * TVC 64k
+State:
+
+* TVC 64k: ?
+* TVC 64k: ?
 
 
 To read/watch (paid)

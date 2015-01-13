@@ -3,11 +3,31 @@ layout: retro
 comments: yes
 ---
 
-My computers
-============
 
-Atari 2600 (1977)
------------------
+# Retro/Vintage computing
+{:.no_toc}
+
+* toc  
+{:toc}
+
+
+# To read/watch (paid)
+
+* [Book: Racing the Beam](http://mitpress.mit.edu/books/racing-beam) - About the Atari 2600, a bit dry, but has good stuff in it.
+* [Video: From bedrooms to billions](http://www.frombedroomstobillions.com) - It is about the UK home computer sw business in the '80. The specials are good.
+
+
+# To read/watch (free)
+
+* [Book: It's behind you](http://bizzley.com) - The development of R-Type for the ZX Spectrum, loved it!
+* [Video: Commercial Breaks - A documentary about Imagine and Ocean Software](https://www.youtube.com/watch?v=Bj-KZdiSrg4)
+* [Video: Spectrum Diamond Documentary](https://www.youtube.com/watch?v=2ro5acUgqzY)
+* [Video: Matthew Smith Interview Manic Miner ZX Spectrum](https://www.youtube.com/watch?v=FWmmMZlhcqU)
+
+
+# My computers
+
+## Atari 2600 (1977)
 
 Specs: MOS 6507 CPU 1.19MHz, 128B RAM, custom VPU (TIA)
 
@@ -19,8 +39,7 @@ State:
 
 * Atari Junior (short rainbow): works fine
 
-ZX81 (1981)
------------
+## ZX81 (1981)
 
 Specs: Z80A CPU 3.5MHz, 1kB RAM, custom VPU
 
@@ -31,8 +50,7 @@ State:
 
 * ZX81: dead, but very cute
 
-ZX Spectrum (1982)
-------------------
+## ZX Spectrum (1982)
 
 Specs: Z80A CPU 3.5MHz, 16/48/128kB, custom VPU
 
@@ -44,8 +62,7 @@ State:
 * ZX Spectrum +2: works fine
 * ZX Spectrum 48k: bad RF, mostly broken keyboard
 
-Radio Shack TRS-80 Color Computer 2 (1983)
-------------------------------------------
+## Radio Shack TRS-80 Color Computer 2 (1983)
 
 Specs: Motorola 6809E CPU 0.895MHz, 16/64kB RAM, Motorola 6847 VPU
 
@@ -57,8 +74,7 @@ State:
 
 * CoCo2 26-3134A: works fine, waiting for upgrades
 
-Videoton TVC (1986)
--------------------
+## Videoton TVC (1986)
 
 Specs: Z80A CPU 3.125MHz, 32/64/128kB RAM, Motorola 6845 VPU
 
@@ -70,17 +86,3 @@ State:
 * TVC 64k: ?
 * TVC 64k: ?
 
-
-To read/watch (paid)
-====================
-
-* [Book: Racing the Beam](http://mitpress.mit.edu/books/racing-beam) - About the Atari 2600, a bit dry, but has good stuff in it.
-* [Video: From bedrooms to billions](http://www.frombedroomstobillions.com) - It is about the UK home computer sw business in the '80. The specials are good.
-
-To read/watch (free)
-====================
-
-* [Book: It's behind you](http://bizzley.com) - The development of R-Type for the ZX Spectrum, loved it!
-* [Video: Commercial Breaks - A documentary about Imagine and Ocean Software](https://www.youtube.com/watch?v=Bj-KZdiSrg4)
-* [Video: Spectrum Diamond Documentary](https://www.youtube.com/watch?v=2ro5acUgqzY)
-* [Video: Matthew Smith Interview Manic Miner ZX Spectrum](https://www.youtube.com/watch?v=FWmmMZlhcqU)

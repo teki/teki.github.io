@@ -4,5 +4,7 @@ defaults:
       path: ""
     values:
       layout: "default"
+      
+markdown: kramdown
 
 url: "http://teki.github.io"

@@ -20,3 +20,4 @@ site cheat sheet:
 #markdown
 
 * http://daringfireball.net/projects/markdown/basics
+* http://kramdown.gettalong.org/documentation.html

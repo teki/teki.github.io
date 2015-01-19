@@ -18,4 +18,4 @@ Projects
 ---------
 
 * composite video out
-* cartridge simulator (like Harmony, but based on Olimex PIC32-PINGUINO-MICRO)
+* cartridge simulator

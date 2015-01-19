@@ -30,6 +30,11 @@ layout: default
 - Amstrad CPC
   - DDI-1: R6765 [schematics](http://www.cpcwiki.eu/imgs/4/4f/DDI_Schematic.png)
 
+## Non standard floppies (custom rom involved)
+
+- ZX Spectrum
+  - [CF and IDE connection](http://piters.tripod.com/zx.htm) [CF card howto](https://www.sparkfun.com/datasheets/BreakoutBoards/c0201mspdf.pdf)
+
 ## Idea dump
 
 - dumb ones are easier to do, sample solution: CocoSDC (2 CPLD, 1 FLASH, 1 ATmega MCU)
@@ -42,6 +47,28 @@ layout: default
 - [ZX Spectrum Beta Disk](http://en.wikipedia.org/wiki/Beta_Disk_Interface)
 - [ZX Spectrum divIde](http://baze.au.com/divide/)
 
+## STM32F4 OSX toolchain
+
+- [homebrew](http://brew.sh)
+- [compiler](https://launchpad.net/gcc-arm-embedded/)
+- [debugger 1](http://openocd.sourceforge.net) homebrew: brew install open-ocd
+- [debugger 2](https://github.com/texane/stlink) homebrew: brew install stlink
+- [IDE installation guide](http://grafixmafia.net/updated-using-the-stm32f4-discovery-board-with-mac-osx-10-9-mavericks/)
+  - install [eclipse c/c++](https://www.eclipse.org/downloads/)
+  - install all gnuarm plugins: http://gnuarmeclipse.sourceforge.net/updates
+  - install "GCC Cross Compiler support" and "GDB Hardware Debugging" from: http://download.eclipse.org/tools/cdt/releases/kepler
+  - new C project will have an option for "STM32F4XX C/C++ Project", defaults are mostly ok, you have to point to the arm toolchain in the last step!
+- integrate a debugger provider (optional):
+  - add new external program (green play icon with red toolbox)
+  - Location: /usr/local/bin/st-util
+  - Working Directory: ${project_loc}
+  - this will just run that tool, you can do it on the command line, it will print the default port for the gdb server
+- integrate debugger
+  - Debug Configurations (under Run menu)
+  - new
+  - on the Debugger tab set the path to gdb in the arm toolchain
+  - JTAG device: generic tcp
+  - port: 4242 (default for stlink)
 
 # Cartridge emulator
 
@@ -53,4 +80,3 @@ layout: default
 # Arcade machine
 
 - [simple one](http://www.instructables.com/id/A-Super-Easy-Arcade-Machine-from-1-Sheet-of-Plywoo/?ALLSTEPS)
- 

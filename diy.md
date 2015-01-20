@@ -47,7 +47,7 @@ layout: default
 - [ZX Spectrum Beta Disk](http://en.wikipedia.org/wiki/Beta_Disk_Interface)
 - [ZX Spectrum divIde](http://baze.au.com/divide/)
 
-## STM32F4 OSX toolchain
+# STM32F4 OSX toolchain
 
 - [homebrew](http://brew.sh)
 - [compiler](https://launchpad.net/gcc-arm-embedded/)
@@ -80,3 +80,9 @@ layout: default
 # Arcade machine
 
 - [simple one](http://www.instructables.com/id/A-Super-Easy-Arcade-Machine-from-1-Sheet-of-Plywoo/?ALLSTEPS)
+ 
+# iMac HDD upgrade (without opening it)
+
+- Kanex Thunderbolt-to-Gigabit Ethernet + USB 3.0 Adapter (Apple store) $110
+- OWC Mercury Elite Pro Mini USB3 35USD - 100AUD
+- SSD 

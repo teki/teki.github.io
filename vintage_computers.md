@@ -62,6 +62,19 @@ State:
 * ZX Spectrum +2: works fine
 * ZX Spectrum 48k: bad RF, mostly broken keyboard
 
+## Commodore 64 (1982)
+
+Specs: MOS 6510 CPU 0.985MHz, 64kB RAM, VIC-II VPU, SID sound chip
+
+* [History](http://en.wikipedia.org/wiki/Commodore_64)
+* [C64 specs](http://problemkaputt.de/pagezero.htm)
+
+State:
+
+* Commodore 64 - working fine, brownish, could use some http://www.retr0bright.com/
+* OC-118 - a 1541 floppy clone, works fine, bit rusty
+* 1530 Datasette - broken record button
+
 ## Radio Shack TRS-80 Color Computer 2 (1983)
 
 Specs: Motorola 6809E CPU 0.895MHz, 16/64kB RAM, Motorola 6847 VPU

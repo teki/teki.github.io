@@ -14,6 +14,7 @@ comments: yes
 # To read/watch (paid)
 
 * [Book: Racing the Beam](http://mitpress.mit.edu/books/racing-beam) - About the Atari 2600, a bit dry, but has good stuff in it.
+* [Book: CoCo: The Colorful History of Tandy's Underdog Computer](http://www.crcpress.com/product/isbn/9781466592476) - The story of the TRS-80 Color Computer. Not too long, nice pictures, good read if you like that little computer.
 * [Video: From bedrooms to billions](http://www.frombedroomstobillions.com) - It is about the UK home computer sw business in the '80. The specials are good.
 
 
@@ -87,6 +88,21 @@ State:
 
 * CoCo2 26-3134A: works fine, waiting for upgrades
 
+## Atari 600XL (1983)
+
+Specs: MOS 6502B CPU 1.77MHz, 16kB RAM, ANTIC+GTIA VPU, POKEY sound
+
+* [History](http://www.gamasutra.com/view/feature/132144/a_history_of_gaming_platforms_.php)
+* [Commnuity](http://atariage.com)
+* [Atari on archive.org](https://archive.org/details/softwarelibrary_atari)
+
+## Amtrad CPC 464 (1984)
+
+Specs: Z80A CPU 4MHz, 54kB RAM, Motorola 6845 VPU, AY-3-8912 sound chip
+
+* [History](http://www.theregister.co.uk/Print/2014/02/12/archaeologic_amstrad_cpc_464/)
+* [The CPC Wiki](http://www.cpcwiki.eu/index.php/Main_Page)
+
 ## Videoton TVC (1986)
 
 Specs: Z80A CPU 3.125MHz, 32/64/128kB RAM, Motorola 6845 VPU
@@ -98,4 +114,3 @@ State:
 
 * TVC 64k: ?
 * TVC 64k: ?
-

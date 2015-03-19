@@ -98,6 +98,10 @@ layout: default
 - parts: scart plug, stereo jack, 100uF (optional), 6 pin DIN plug
 - [scart pins](http://www.leadsdirect.co.uk/technical-library/pinouts-wiring-diagrams/scart-wiring/)
 
+# ZX Spectrum +2 RGB cable
+
+- [pdf](http://mts.speccy.cz/doc/128_rgb.pdf)
+
 # Amstrad CPC tape drive replacement
 
 - [size: 74mm x 1.2mm](http://www.cpcwiki.eu/forum/amstrad-cpc-hardware/repair-a-cpc-464-cassette-tape-deck/)

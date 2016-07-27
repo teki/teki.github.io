@@ -1,20 +1,19 @@
 body {
-    font-family: 'Droid Sans', sans-serif;
+    font-family: Verdana, Geneva, sans-serif;;
+    margin: 0 auto;
+    max-width: 60em;
+    line-height: 1.4;
 }
 
 #mainmenu {
-    background-color: #FFB03B;
+    background-color: #D1DBBD;
 }
 
 #extramenu {
-  background-color: #FFB03B;
-  border-top: 1px solid black;
+    background-color: #D1DBBD;
+    border-top: 1px solid #b1bB9D;
 }
 
-
-footer {
-    background-color: #FFB03B;
-}
 footer p {
     padding: 1em 1em 1em 1em;
 }
@@ -24,9 +23,13 @@ footer p {
 }
 
 #extramenu a {
-  color: black;
+    color: black;
 }
 
 #content {
     padding: 1em 1em 1em 1em;
+}
+
+#content a {
+    text-decoration: none;
 }

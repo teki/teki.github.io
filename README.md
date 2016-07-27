@@ -15,7 +15,7 @@ site cheat sheet:
 
 # colors
 
-* https://color.adobe.com/Firenze-color-theme-24198/
+* https://color.adobe.com/Neutral-Blue-color-theme-22361/
 
 #markdown
 

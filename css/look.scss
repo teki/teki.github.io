@@ -1,0 +1,90 @@
+---
+# look
+---
+
+$main-bg: white;
+$menu-bg: white;
+$menu-separator: #b1bB9D;
+$heading-1-color: #193441;
+$heading-n-color: #3E606F;
+
+@import 'https://fonts.googleapis.com/css?family=Droid+Serif|Lato';
+
+@mixin heading-font($size) {
+  font-family: 'Droid Serif', serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: $size;
+  letter-spacing: normal;
+  line-height: $size * 1.2;
+  text-transform: none;
+}
+
+@mixin content-font($size) {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: $size;
+  letter-spacing: normal;
+  line-height: $size * 1.2;
+  text-transform: none;
+}
+
+body {
+    @include content-font(1.2em);
+    background-color: $main-bg;
+    margin: 0 auto;
+    max-width: 80em;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+h1 {
+    @include heading-font(2em);
+    color: $heading-1-color;
+}
+h2 {
+    @include heading-font(1.5em);
+    color: $heading-n-color;
+}
+h3 {
+    @include heading-font(1em);
+    color: $heading-n-color;
+}
+
+#menu-container {
+    border-left: 3px solid $menu-separator;
+    font-family: 'Droid Serif', serif;
+    font-style: normal;
+    font-size: 1em;
+    line-height: 0.8em;
+}
+
+#mainmenu {
+    background-color: $menu-bg;
+}
+
+#extramenu {
+    background-color: $menu-bg;
+    border-top: 1px solid $menu-separator;
+}
+
+footer p {
+    padding: 1em 1em 1em 1em;
+}
+
+#mainmenu a {
+    color: black;
+}
+
+#extramenu a {
+    color: black;
+}
+
+#content {
+    padding: 1em 1em 1em 1em;
+}
+
+#content a {
+    text-decoration: none;
+}

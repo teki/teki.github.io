@@ -4,13 +4,14 @@
 <head>
   <meta charset=utf-8 />
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/0.5.0/pure-min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css" />
   <link rel="stylesheet" href="/css/look.css" />
   <title> {% if page.title %} {{ page.title }} | {% endif %} teki, stuff </title>
 </head>
 
 <body>
   <script>
+  /* global FB */
     window.fbAsyncInit = function() {
       FB.init({
         appId: '1491168351150228',
@@ -32,15 +33,16 @@
   </script>
 
   <div id="main">
-    <div class="pure-menu pure-menu-open pure-menu-horizontal" id="mainmenu">
-      <ul>
-        <li class="pure-menu-selected"><a class="menutext" href="/">Home</a></li>
-        <li><a href="diy.html">DIY</a></li>
-        <li><a href="vintage_computers.html">Vintage Computers</a></li>
-        <li><a href="retro_gaming.html">Retro Gaming</a></li>
+    <div id="menu-container">
+    <div class="pure-menu pure-menu-horizontal" id="mainmenu">
+      <ul class="pure-menu-list">
+        <li class="pure-menu-item pure-menu-selected"><a class="pure-menu-link menutext" href="/">Home</a></li>
+        <li class="pure-menu-item"><a class="pure-menu-link" href="diy.html">DIY</a></li>
+        <li class="pure-menu-item"><a class="pure-menu-link" href="vintage_computers.html">Vintage Computers</a></li>
+        <li class="pure-menu-item"><a class="pure-menu-link" href="retro_gaming.html">Retro Gaming</a></li>
     </div>
-
     {{ extramenus }}
+    </div>
 
     <div id="content">
       {{ content }}

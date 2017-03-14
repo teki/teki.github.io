@@ -31,7 +31,7 @@ $heading-n-color: #3E606F;
 }
 
 body {
-    @include content-font(1.2em);
+    @include content-font(1em);
     background-color: $main-bg;
     margin: 0 auto;
     max-width: 80em;

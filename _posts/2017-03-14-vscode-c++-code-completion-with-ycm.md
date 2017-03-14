@@ -39,7 +39,7 @@ EXTRA_CMAKE_ARGS="-DPATH_TO_LLVM_ROOT=${PWD}/../clang+llvm-4.0.0-x86_64-apple-da
 
 ## Visual Studio Code config sample
 
-The extension: https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me
+The extension: [https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me]()
 
 Minimal config:
 ```

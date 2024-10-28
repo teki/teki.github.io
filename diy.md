@@ -1,8 +1,7 @@
 ---
 layout: page
+title: DIY projects
 ---
-
-# DIY projects
 
 # Floppy disk emulator
 

@@ -1,14 +1,7 @@
 ---
 layout: page
+title: Retro computing
 ---
-
-
-# Retro/Vintage computing
-{:.no_toc}
-
-* toc  
-{:toc}
-
 
 # To read/watch (paid)
 

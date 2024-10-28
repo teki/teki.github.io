@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Retro gaming
 ---
 
 # Good Games

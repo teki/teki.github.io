@@ -8,4 +8,4 @@ header_pages:
 minima:
   social_links:
     - { platform: x, user_url: "https://x.com/teki" }
-  
+title: teki page

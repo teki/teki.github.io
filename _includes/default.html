@@ -4,55 +4,25 @@
 <head>
   <meta charset=utf-8 />
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css" />
-  <link rel="stylesheet" href="/css/look.css" />
   <title> {% if page.title %} {{ page.title }} | {% endif %} teki, stuff </title>
 </head>
 
 <body>
-  <script>
-  /* global FB */
-    window.fbAsyncInit = function() {
-      FB.init({
-        appId: '1491168351150228',
-        xfbml: true,
-        version: 'v2.2'
-      });
-    };
-
-    (function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) {
-        return;
-      }
-      js = d.createElement(s);
-      js.id = id;
-      js.src = "//connect.facebook.net/en_US/sdk.js";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-  </script>
-
-  <div id="main">
-    <div id="menu-container">
-    <div class="pure-menu pure-menu-horizontal" id="mainmenu">
-      <ul class="pure-menu-list">
-        <li class="pure-menu-item pure-menu-selected"><a class="pure-menu-link menutext" href="/">Home</a></li>
-        <li class="pure-menu-item"><a class="pure-menu-link" href="diy.html">DIY</a></li>
-        <li class="pure-menu-item"><a class="pure-menu-link" href="vintage_computers.html">Vintage Computers</a></li>
-        <li class="pure-menu-item"><a class="pure-menu-link" href="retro_gaming.html">Retro Gaming</a></li>
-    </div>
+  <p>
+    <a href="/">Home</a>
+    <a href="diy.html">DIY</a>
+    <a href="vintage_computers.html">Vintage Computers</a>
+    <a href="retro_gaming.html">Retro Gaming</a>
     {{ extramenus }}
-    </div>
+  </p>
 
-    <div id="content">
-      {{ content }}
-    </div>
-    {% if page.comments %}
-    <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="500" data-numposts="5" data-colorscheme="light"></div>
-    {% endif %}
-    <footer>
-      <p>© <a href="https://twitter.com/teki">@teki</a> 2017 | All Rights Reserved. </p>
-    </footer>
+  <div id="content">
+    {{ content }}
+  </div>
+
+  <footer>
+    <p>© <a href="https://x.com/teki">@teki</a> 2024 | All Rights Reserved. </p>
+  </footer>
 
   </div>
 </body>

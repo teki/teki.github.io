@@ -1,6 +1,5 @@
 ---
-layout: retro
-comments: yes
+layout: base
 ---
 
 Atari 2600

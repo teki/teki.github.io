@@ -1,6 +1,5 @@
 ---
-layout: retro
-comments: yes
+layout: base
 ---
 
 Videoton TV Computer

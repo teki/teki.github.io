@@ -1,6 +1,5 @@
 ---
-layout: retro
-comments: yes
+layout: base
 ---
 
 TRS-80 Color Computer 2

@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 ---
 
 Atari 2600

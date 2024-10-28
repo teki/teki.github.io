@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 ---
 
 TRS-80 Color Computer 2

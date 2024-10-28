@@ -1,12 +1,8 @@
 ---
-layout: base
+layout: page
 ---
 
 # DIY projects
-{:.no_toc}
-
-* toc  
-{:toc}
 
 # Floppy disk emulator
 

@@ -1,2 +1,11 @@
 markdown: GFM
 theme: minima
+header_pages:
+  - index.md
+  - diy.md
+  - vintage_computers.md
+  - retro_gaming.md
+minima:
+  social_links:
+    - { platform: x, user_url: "https://x.com/teki" }
+  

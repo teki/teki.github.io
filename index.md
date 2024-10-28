@@ -1,6 +1,6 @@
 ---
 layout: home
-title: tekis page
+title: Home
 ---
 
 Hello page!

@@ -2,13 +2,6 @@
 layout: default
 ---
 
-# Retro gaming
-{:.no_toc}
-
-* toc  
-{:toc}
-
-
 # Good Games
 
 Good source of games to try: [The Video Game Critic](http://videogamecritic.com/).

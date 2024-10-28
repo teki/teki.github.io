@@ -3,14 +3,14 @@ layout: page
 title: Retro gaming
 ---
 
-# Good Games
+## Good Games
 
 Good source of games to try: [The Video Game Critic](http://videogamecritic.com/).
 It is possible to order them by rating, like: [Colecovision](http://videogamecritic.com/coleco_g.htm)
 
 Most game's manual can be found on archive.org.
 
-# SBC Gaming
+## SBC Gaming
 
 ![Odroid GO](https://cdn.hardkernel.com/wp-content/uploads/2018/10/go-%EB%B3%B4%EB%93%9C-1.jpg)
 

@@ -3,9 +3,9 @@ layout: page
 title: DIY projects
 ---
 
-# Floppy disk emulator
+## Floppy disk emulator
 
-## Smart floppies (serial communication)
+### Smart floppies (serial communication)
 
 - Atari
   - Atar 810: 6507 CPU + WD1771 [schematics](http://www.dereatari.republika.pl/literat/810fsm.pdf)
@@ -13,7 +13,7 @@ title: DIY projects
 - Commodore
   - 1541: 6502 CPU + custom hw [schematics](http://www.zimmers.net/anonftp/pub/cbm/schematics/drives/new/1541/1541-II.gif)
 
-## Dumb floppies
+### Dumb floppies
 
 - TRS-80 Color Computer:
   - Card1: WD1773 [schematics](http://www.colorcomputerarchive.com/coco/Documents/Manuals/Hardware/Western%20Digital%20Floppy%20Controller%20-%20WD1773%20Schematic%20Diagram.gif)
@@ -25,24 +25,24 @@ title: DIY projects
 - Amstrad CPC
   - DDI-1: R6765 [schematics](http://www.cpcwiki.eu/imgs/4/4f/DDI_Schematic.png)
 
-## Non standard floppies (custom rom involved)
+### Non standard floppies (custom rom involved)
 
 - ZX Spectrum
   - [CF and IDE connection](http://piters.tripod.com/zx.htm) [CF card howto](https://www.sparkfun.com/datasheets/BreakoutBoards/c0201mspdf.pdf)
 
-## Idea dump
+### Idea dump
 
 - dumb ones are easier to do, sample solution: CocoSDC (2 CPLD, 1 FLASH, 1 ATmega MCU)
 - a generic solution for the smart ones is to connect it to a PC through USB/RS232/Parallel, (SIO2PC, X1541, ...)
 
-## Resources
+### Resources
 
 - [HXC usb](http://hxc2001.free.fr/floppy_drive_emulator/)
 - [CocoSDC](http://cocosdc.blogspot.com.au)
 - [ZX Spectrum Beta Disk](http://en.wikipedia.org/wiki/Beta_Disk_Interface)
 - [ZX Spectrum divIde](http://baze.au.com/divide/)
 
-# STM32F4 OSX toolchain
+## STM32F4 OSX toolchain
 
 - [homebrew](http://brew.sh)
 - [compiler](https://launchpad.net/gcc-arm-embedded/)
@@ -65,42 +65,42 @@ title: DIY projects
   - JTAG device: generic tcp
   - port: 4242 (default for stlink)
 
-# Cartridge emulator
+## Cartridge emulator
 
-## Resources
+### Resources
 
 - [Z80Teensy](http://labs.domipheus.com/blog/teensy-z80-part-1-intro-memory-serial-io-and-display/)
 - [Gameboy cartridge emu with STM32F4](http://dhole.github.io/post/gameboy_cartridge_emu_1/)
 
-# Arcade machine
+## Arcade machine
 
 - [simple one](http://www.instructables.com/id/A-Super-Easy-Arcade-Machine-from-1-Sheet-of-Plywoo/?ALLSTEPS)
 
-# iMac HDD upgrade (without opening it)
+## iMac HDD upgrade (without opening it)
 
 - Kanex Thunderbolt-to-Gigabit Ethernet + USB 3.0 Adapter (Apple store) $110
 - OWC Mercury Elite Pro Mini USB3 35USD - 100AUD
 - SSD
 
-# C64 cartridge based on Magic Desk I
+## C64 cartridge based on Magic Desk I
 
 - [mod](http://users.on.net/~clockmeister/other/EPROM-Cartridge/Magic-Desk-4x8k-mod/)
 - parts: 4* 2764 eproms + sockets28, dip 4 switch, 2* sockets16, reset button
 
-# Amstrad RGB cable
+## Amstrad RGB cable
 
 - [a simple one](http://www.cpcwiki.eu/index.php/TV_SCART_cable)
 - parts: scart plug, stereo jack, 100uF (optional), 6 pin DIN plug
 - [scart pins](http://www.leadsdirect.co.uk/technical-library/pinouts-wiring-diagrams/scart-wiring/)
 
-# ZX Spectrum +2 RGB cable
+## ZX Spectrum +2 RGB cable
 
 - [pdf](http://mts.speccy.cz/doc/128_rgb.pdf)
 
-# Amstrad CPC tape drive replacement
+## Amstrad CPC tape drive replacement
 
 - [size: 74mm x 1.2mm](http://www.cpcwiki.eu/forum/amstrad-cpc-hardware/repair-a-cpc-464-cassette-tape-deck/)
 
-# Atari USB2SIO
+## Atari USB2SIO
 
 - parts: serial to usb board (CH340G, ~1$), USB socket

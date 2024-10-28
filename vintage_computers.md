@@ -20,7 +20,7 @@ title: Retro computing
 
 ## My computers
 
-### Atari 2600 (1977)
+### Atari 2600 (1977) [more](/atari2600.html)
 
 Specs: MOS 6507 CPU 1.19MHz, 128B RAM, custom VPU (TIA)
 
@@ -32,7 +32,7 @@ State:
 
 * Atari Junior (short rainbow): works fine
 
-### ZX81 (1981)
+### ZX81 (1981) [more](/zx81.html)
 
 Specs: Z80A CPU 3.5MHz, 1kB RAM, custom VPU
 
@@ -43,7 +43,7 @@ State:
 
 * ZX81: dead, but very cute
 
-### ZX Spectrum (1982)
+### ZX Spectrum (1982) [more](/zx82.html)
 
 Specs: Z80A CPU 3.5MHz, 16/48/128kB, custom VPU
 
@@ -68,7 +68,7 @@ State:
 * OC-118 - a 1541 floppy clone, works fine, bit rusty
 * 1530 Datasette - broken record button
 
-### Radio Shack TRS-80 Color Computer 2 (1983)
+### Radio Shack TRS-80 Color Computer 2 (1983) [more](/trs80cc.html)
 
 Specs: Motorola 6809E CPU 0.895MHz, 16/64kB RAM, Motorola 6847 VPU
 
@@ -95,7 +95,7 @@ Specs: Z80A CPU 4MHz, 54kB RAM, Motorola 6845 VPU, AY-3-8912 sound chip
 * [History](http://www.theregister.co.uk/Print/2014/02/12/archaeologic_amstrad_cpc_464/)
 * [The CPC Wiki](http://www.cpcwiki.eu/index.php/Main_Page)
 
-### Videoton TVC (1986)
+### Videoton TVC (1986) [more](/tvc.html)
 
 Specs: Z80A CPU 3.125MHz, 32/64/128kB RAM, Motorola 6845 VPU
 
